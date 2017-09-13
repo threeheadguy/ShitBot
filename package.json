@@ -1,0 +1,11 @@
+{
+  "name": "Shit-Bot",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "bot.js",
+  "author": "Theo",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "winston": "^2.3.1"
+  }
+}
